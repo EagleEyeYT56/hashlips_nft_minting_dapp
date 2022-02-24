@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xbf05257e8955109806352Af928825185275D0DA2",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xbf05257e8955109806352Af928825185275D0DA2",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "BeagliesTest",
+  "SYMBOL": "TTAB",
+  "MAX_SUPPLY": 6050,
+  "WEI_COST": 7900000000000000,
+  "DISPLAY_COST": 0.0079,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/beagliestest",
+  "SHOW_BACKGROUND": true
+}
